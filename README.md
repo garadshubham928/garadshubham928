@@ -41,7 +41,7 @@
 
 ## 💼 Projects
 
-> 🔗 Explore all my projects [here](https://github.com/yourusername?tab=repositories)
+> 🔗 Explore all my projects [here](https://github.com/garadshubham928?tab=repositories)
 
 - ✅ **Workforce Management System**  
   Full-stack CRUD app with authentication, dashboard, and charts  

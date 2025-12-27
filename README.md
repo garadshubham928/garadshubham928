@@ -9,6 +9,7 @@
 💼 I recently completed a 4-month internship at **Innomatics Research Labs**, where I worked on frontend, backend, database management, and built **15+ real-world projects**.
 
 🚀 I’m currently seeking a **Full Stack Developer** role to kickstart my professional journey and contribute to impactful software solutions.
+### 🌐 Portfolio: https://shubham-garad-portfolio.netlify.app/
 
 ---
 
